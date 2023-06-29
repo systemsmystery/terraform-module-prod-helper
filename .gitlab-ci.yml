@@ -1,0 +1,8 @@
+---
+include:
+  - project: systemsmystery/ci-includes
+    file:
+      - tflint.yml
+      - yamllint.yml
+      - checkov.yml
+      - semantic-release.yml
