@@ -2,21 +2,4 @@
 include:
   - project: systemsmystery/ci-includes
     file:
-      - yamllint.yml
-      - semantic-release.yml
-  - template: Terraform-Module.gitlab-ci.yml
-
-stages:
-  - validate
-  - linting
-  - test
-  - release
-  - deploy
-
-deploy:
-  variables:
-    TERRAFORM_MODULE_SYSTEM: aws
-  before_script:
-    - export TERRAFORM_MODULE_VERSION=${TERRAFORM_MODULE_VERSION:1}
-  rules:
-    - if: $CI_COMMIT_TAG =~ /^v(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)$/
+      - terraform-module-deploy.yml
