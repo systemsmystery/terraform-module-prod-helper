@@ -1,3 +1,11 @@
+## [1.2.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.1.0...v1.2.0) (2023-06-29)
+
+
+### Features
+
+* fixed regex for ci ([d089478](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/d0894789587b12b8a3279cf7e123115f759bcdca))
+* removed message to skip pipeline ([5ac4082](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/5ac4082d7339fc9cbd426a6d9d8a4822c1e0e823))
+
 ## [1.1.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.0.0...v1.1.0) (2023-06-29)
 
 
