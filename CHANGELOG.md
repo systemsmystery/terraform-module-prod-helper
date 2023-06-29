@@ -1,3 +1,10 @@
+## [1.1.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.0.0...v1.1.0) (2023-06-29)
+
+
+### Features
+
+* changed module version to be without v ([e569a0e](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/e569a0e38a147bdaac9ed57ad680f118f0470c98))
+
 ## 1.0.0 (2023-06-29)
 
 
