@@ -14,6 +14,8 @@ stages:
   - deploy
 
 deploy:
+  variables:
+    TERRAFORM_MODULE_SYSTEM: aws
   before_script:
     - export TERRAFORM_MODULE_VERSION=${TERRAFORM_MODULE_VERSION:1}
   rules:
