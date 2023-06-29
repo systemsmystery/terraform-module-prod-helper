@@ -6,3 +6,8 @@ include:
       - yamllint.yml
       - checkov.yml
       - semantic-release.yml
+
+stages:
+  - linting
+  - security
+  - release
