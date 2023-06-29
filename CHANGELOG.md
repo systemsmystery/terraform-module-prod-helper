@@ -1,3 +1,10 @@
+## [1.2.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.1.0...v1.2.0) (2023-06-29)
+
+
+### Features
+
+* corrected TERRAFORM_MODULE_SYSTEM to aws ([5615094](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/561509409ae2dd93e111402633cd36730bbbb76c))
+
 ## [1.1.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.0.0...v1.1.0) (2023-06-29)
 
 
