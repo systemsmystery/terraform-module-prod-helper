@@ -1,3 +1,10 @@
+## [1.3.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.2.0...v1.3.0) (2023-09-02)
+
+
+### Features
+
+* added ami for docker host and nat instance ([db4ad10](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/db4ad1061637668b7b59bd33af8c57989bac31be))
+
 ## [1.2.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.1.0...v1.2.0) (2023-06-29)
 
 
