@@ -1,3 +1,10 @@
+## [1.4.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.3.0...v1.4.0) (2023-09-21)
+
+
+### Features
+
+* removed alb ([be85784](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/be8578436b64b5b9eef79e2960809aa60a998e1c))
+
 ## [1.3.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.2.0...v1.3.0) (2023-09-02)
 
 
