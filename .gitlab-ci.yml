@@ -4,9 +4,6 @@ include:
     file:
       - terraform-module-deploy.yml
 
-stages:
-  - test
-
 iac-sast:
   when: manual
 
