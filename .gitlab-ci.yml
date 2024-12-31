@@ -11,4 +11,4 @@ iac-sast:
   when: manual
 
 kics-iac-sast:
-  when: manaul
+  when: manual
