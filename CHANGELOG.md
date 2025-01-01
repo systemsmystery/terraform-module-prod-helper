@@ -1,3 +1,9 @@
+## [1.5.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.4.0...v1.5.0) (2025-01-01)
+
+### Features
+
+* updated versions ([ce3429c](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/ce3429ca223d6e513e39f01b67072ae38308660b))
+
 ## [1.4.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.3.0...v1.4.0) (2023-09-21)
 
 
