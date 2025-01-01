@@ -27,21 +27,21 @@ data "hcp_packer_artifact" "nat_instance" {
 }
 
 output "ami_php81" {
-  value       = data.hcp_packer_artifact.php8-1.cloud_image_id
+  value       = data.hcp_packer_artifact.php8-1.external_identifier
   description = "PHP 8.1 image ID"
 }
 
 output "ami_php82" {
-  value       = data.hcp_packer_artifact.php8-2.cloud_image_id
+  value       = data.hcp_packer_artifact.php8-2.external_identifier
   description = "PHP 8.2 image ID"
 }
 
 output "ami_docker_host" {
-  value       = data.hcp_packer_artifact.docker_host.cloud_image_id
+  value       = data.hcp_packer_artifact.docker_host.external_identifier
   description = "Docker host image ID"
 }
 
 output "ami_nat_instance" {
-  value       = data.hcp_packer_artifact.nat_instance.cloud_image_id
+  value       = data.hcp_packer_artifact.nat_instance.external_identifier
   description = "NAT instance image ID"
 }
