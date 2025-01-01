@@ -1,3 +1,9 @@
+## [1.7.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.6.0...v1.7.0) (2025-01-01)
+
+### Features
+
+* changed to using external_identifier ([3345611](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/33456116939b7a617ec13a354ad3e0e5690f75a8))
+
 ## [1.6.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.5.0...v1.6.0) (2025-01-01)
 
 ### Features
