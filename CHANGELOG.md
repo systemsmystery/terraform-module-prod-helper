@@ -1,3 +1,9 @@
+## [1.6.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.5.0...v1.6.0) (2025-01-01)
+
+### Features
+
+* changed to new hcp_packer_artifact ([1abcf70](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/commit/1abcf701b38ad311ee8162c214f15098d95d5f69))
+
 ## [1.5.0](https://gitlab.com/systemsmystery/terraform-modules/terraform-module-prod-helper/compare/v1.4.0...v1.5.0) (2025-01-01)
 
 ### Features
